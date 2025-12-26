@@ -1,0 +1,6 @@
+2025-12-21 19:11:47.772297: DEBUG: Checking permissions...
+2025-12-21 19:11:47.772747: DEBUG: Active User: Admin, Action User: UserB
+2025-12-21 19:11:47.773782: DEBUG: Permission Denied. Raising 403.
+2025-12-21 19:11:47.774768: DEBUG: Error in permission check: 403: Only the user who activated the emergency (Admin) can stop it.
+2025-12-21 19:11:49.826492: DEBUG: Checking permissions...
+2025-12-21 19:11:49.826821: DEBUG: Active User: Admin, Action User: Admin

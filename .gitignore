@@ -1,0 +1,27 @@
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.txt
+
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Backend specific
+backend/venv/
+backend/__pycache__/
+backend/serviceAccountKey.json
+
+# Frontend specific
+frontend-react/node_modules/
