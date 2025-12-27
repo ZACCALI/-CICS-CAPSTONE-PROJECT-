@@ -25,3 +25,4 @@ backend/serviceAccountKey.json
 
 # Frontend specific
 frontend-react/node_modules/
+frontend-react/dev-dist/
